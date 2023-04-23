@@ -1,5 +1,6 @@
 <img src="SubhodipRoyBanner.png"></img>
 <br>
+<br>
  <h2 align="center" id = "work-experience">🚀 Professional Experience </h2> 
 
 <table align="center" >
