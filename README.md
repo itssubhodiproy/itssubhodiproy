@@ -38,7 +38,7 @@
     <tr>
       <td> <b> Full-stack Developer </b> </td>
       <td><a href="https://ideausher.com"/><b>Idea Usher</b></a></td>
-      <td> <b>Sep 2022 - Feb 2022 </b> </td>
+      <td> <b>Sep 2022 - Feb 2023 </b> </td>
    </tr>
       <tr>
       <td> <b> Software Developer Intern </b> </td>
