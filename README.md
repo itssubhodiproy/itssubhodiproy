@@ -32,7 +32,7 @@
    </tr>
     <tr>
       <td> <b> Backend Developer</b> </td>
-      <td><a href="https://productefy.com/"/><b>Crediators</b></a></td>
+      <td><a href="https://www.linkedin.com/company/creaitors-research/"/><b>Crediators</b></a></td>
       <td> <b>Feb 2023 - May 2023 </b> </td>
    </tr>
     <tr>
