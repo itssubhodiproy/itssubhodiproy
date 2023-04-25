@@ -27,7 +27,7 @@
   <tbody> 
     <tr>
       <td> <b> Lead Software Engineer (React Native) </b> </td>
-      <td><a href="https://www.irlamigo.com/"/><b>Hash Social</b></a></td>
+      <td><a href="https://github.com/gethashed"/><b>Hash Social</b></a></td>
       <td> <b>Feb 2023 - Present </b> </td>
    </tr>
     <tr>
