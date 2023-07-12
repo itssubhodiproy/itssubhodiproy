@@ -11,7 +11,7 @@
 <br>
 
 
-<kbd><img src="SubhodipRoyBanner.png"></img></kbd>
+<kbd><img src="poster.png"></img></kbd>
 <br>
 <br>
  <h2 align="center" id = "work-experience">🚀 Professional Experience </h2> 
