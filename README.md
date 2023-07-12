@@ -28,7 +28,7 @@
     <tr>
       <td> <b> Lead Software Engineer (React Native) </b> </td>
       <td><a href="https://github.com/gethashed"/><b>Hash Social</b></a></td>
-      <td> <b>Feb 2023 - Present </b> </td>
+      <td> <b>Feb 2023 - July 2023 </b> </td>
    </tr>
     <tr>
       <td> <b> Backend Developer</b> </td>
