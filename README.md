@@ -8,8 +8,4 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=subh-cs&color=brightgreen">  
 
 </div>
-<br>
-
-
-<kbd><img src="poster.png"></img></kbd>
 
