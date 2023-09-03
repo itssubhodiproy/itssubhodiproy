@@ -1,6 +1,6 @@
 <h1 > Yo, It's Subhodip👋</h1>
 
-<kbd><img src="/subh-developer.gif" width="600"/></kbd>
+<img src="/subh-developer.gif" width="600"/>
 
 <br>
 
