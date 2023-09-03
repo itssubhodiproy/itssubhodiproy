@@ -1,6 +1,8 @@
 <h1 > Yo, It's Subhodip👋</h1>
 
-<img src="/subh-developer.gif" width="600"/>
+<kbd><img src="/subh-developer.gif" width="600"/></kbd>
+
+<br>
 
 <div>
 <a href="https://twitter.com/intent/follow?screen_name=subh_cs">
