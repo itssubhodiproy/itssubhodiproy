@@ -1,6 +1,6 @@
 <h1 > Yo, It's Subhodip👋</h1>
 
-<img src="/subh-developer.gif" width="600"/>
+<img src="/ezgif.com-optimize.gif" width="600"/>
 
 <br>
 
