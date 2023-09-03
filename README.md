@@ -1,4 +1,4 @@
-<h1 > Yo, It's Subhodip 👋👨‍💻</h1>
+<h1 > Yo, It's Subhodip👋</h1>
 
 <img src="https://media0.giphy.com/media/XGqDsE3owV0RO/giphy.gif?cid=ecf05e47a9zyfz29glki70jlgbszymd6m4lcxp8hdko2reit&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
