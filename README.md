@@ -1,4 +1,6 @@
-<h1 align="center"> Hi, I'm Subhodip 👋👨‍💻</h1>
+<h1 align="center"> Yo, It's Subhodip 👋👨‍💻</h1>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p5NTlmMTA4MW82NTZheG9vMW11ajhnOXRreDUwcXpxbDk3anE1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGqDsE3owV0RO/giphy.gif" width="200" height="40" align="center"/>
 
 <div align="center">
  
