@@ -1,7 +1,9 @@
 <div align="center">
 <h1 > Yo, It's Subhodip👋</h1>
 
-<img src="/ezgif.com-optimize.gif" width="600"/>
+
+![ezgif com-optimize](https://github.com/subh-cs/subh-cs/assets/75121304/44002406-19ba-4d15-ac6c-45f91517b59f)
+
 
 <br>
 <br>
