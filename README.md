@@ -7,10 +7,4 @@
     />
 </p>
 
-- 🌱 I’m currently learning **low level systmes, architectural pattern**
-- 👨‍💻 All of my projects are
-  available at [**Github**](https://github.com/subh-cs)
-- 🌐 Checkout My Digital presence [subh-twitter](https://twitter.com/subh_cs)
-- 💬Ask me about **TypeScript, C++**
-- 📫 How to reach me
-  **itssubhodiproy@gmail.com**
+![wallpapersden com_game-of-thrones-jon-snow-alone-fight_5120x1440-min](https://github.com/subh-cs/subh-cs/assets/75121304/eda98561-3025-4fc6-b1be-cc21bade0c20)
