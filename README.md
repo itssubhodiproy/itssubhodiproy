@@ -7,4 +7,3 @@
     />
 </p>
 
-![wallpapersden com_game-of-thrones-jon-snow-alone-fight_5120x1440-min](https://github.com/subh-cs/subh-cs/assets/75121304/eda98561-3025-4fc6-b1be-cc21bade0c20)
