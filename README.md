@@ -6,6 +6,40 @@
     />
 </p>
 
-![wallpapersden com_game-of-thrones-jon-snow-alone-fight_5120x1440-min](https://github.com/subh-cs/subh-cs/assets/75121304/eda98561-3025-4fc6-b1be-cc21bade0c20)
+### Highlights:
 
+- :trophy: Won **5 hackathons** in a row including national hackathons
+
+- :hospital: Developed **Sanjeevni-ai**, a digital healthcare platform offering diagnoses, advice, and data privacy
+
+- :police_officer: Created **CloakR**, an AI-powered crime reporting platform ensuring community safety
+
+- :moneybag: Built **DOit App**, an app that helps build healthy habits by providing money incentives
+
+### Work Experience:
+
+- **Wing Cloud** - *Software Engineer* (June 2023 - Present) 
+- **CREATORS** - *Backend Engineer* (Feb 2023 - May 2023)
+- **Hash Social** - *Lead React Native Engineer* (Feb 2023 - June 2023) 
+- **Idea Usher** - *Full Stack Engineer* (Nov 2022 - Feb 2023)
+- **Concise Labs** - *Software Engineer Intern* (Jul 2022 - Sep 2022)
+
+### Technical Skills:
+
+- **Programming Languages:** Typescript, Python, C++
+- **Libraries/Frameworks:** React Native, Next.js, Node.js  
+- **Tools / Platforms:** Prisma, AWS, Docker, Kubernetes, Terraform, Jest
+- **Databases:** MongoDB, PostgresSql, Redis, Elasticsearch
+
+### Open-Source Contributions:
+
+- WingLang  
+- Formbricks
+- Infisical YC23
+
+### Personal Side Projects:
+
+- Sanjeevni-ai
+- CloakR 
+- DOit App
 
