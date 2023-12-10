@@ -19,8 +19,8 @@
 ### Work Experience:
 
 - **Wing Cloud** - *Software Engineer* (June 2023 - Present) 
-- **CREATORS** - *Backend Engineer* (Feb 2023 - May 2023)
-- **Hash Social** - *Lead React Native Engineer* (Feb 2023 - June 2023) 
+- **CREATORS** - *Senior Backend Engineer* (Feb 2023 - May 2023)
+- **Hash Social** - *React Native Engineer* (Feb 2023 - June 2023) 
 - **Idea Usher** - *Full Stack Engineer* (Nov 2022 - Feb 2023)
 - **Concise Labs** - *Software Engineer Intern* (Jul 2022 - Sep 2022)
 
