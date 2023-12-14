@@ -25,8 +25,8 @@
 ### Technical Skills:
 
 - **Programming Languages:** Typescript, C++
-- **Libraries/Frameworks:** React Native, Next.js, Node.js  
-- **Tools / Platforms:** Prisma, AWS, Docker, Kubernetes, Terraform, Jest
+- **Libraries/Frameworks:** React Native, Next.js, Node.js, Jest
+- **Tools / Platforms:** Prisma, AWS, Docker, Kubernetes, Terraform
 - **Databases:** MongoDB, PostgresSql, Redis, Elasticsearch
 
 ### Open-Source Contributions:
