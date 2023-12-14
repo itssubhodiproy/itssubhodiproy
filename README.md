@@ -19,14 +19,12 @@
 ### Work Experience:
 
 - **Wing Cloud** - *Software Engineer* (June 2023 - Present) 
-- **CREATORS** - *Senior Backend Engineer* (Feb 2023 - May 2023)
-- **Hash Social** - *React Native Engineer* (Feb 2023 - June 2023) 
-- **Idea Usher** - *Full Stack Engineer* (Nov 2022 - Feb 2023)
-- **Concise Labs** - *Software Engineer Intern* (Jul 2022 - Sep 2022)
-
+- **Creators** - *Senior Backend Engineer* (Oct 2022 - May 2023)
+- **Hash Social** - *React Native Engineer* (Jan 2022 - Oct 2022) 
+  
 ### Technical Skills:
 
-- **Programming Languages:** Typescript, Python, C++
+- **Programming Languages:** Typescript, C++
 - **Libraries/Frameworks:** React Native, Next.js, Node.js  
 - **Tools / Platforms:** Prisma, AWS, Docker, Kubernetes, Terraform, Jest
 - **Databases:** MongoDB, PostgresSql, Redis, Elasticsearch
