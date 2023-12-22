@@ -18,7 +18,7 @@
 
 ### Work Experience:
 
-- **Wing Cloud** - *Opensource Developer* (June 2023 - Present) 
+- **Wing Cloud** - *Software Engineer* (June 2023 - Present) 
 - **Creators** - *Senior Backend Engineer* (Oct 2022 - May 2023)
 - **Idea Usher** - *Fullstack Engineer* (Jan 2022 - Oct 2022) 
   
