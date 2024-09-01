@@ -1,6 +1,6 @@
-# Hi 👋, I'm Subhodip
+# Hi 👋, I'm Subh
 
-- 👨🏾‍💻 I am a Fullstack Developer focused on solving harder problems
+- 👨🏾‍💻 I am a DevOps Engineer focused on solving infrastructure
 - 🌱 Love to read research papers of tech innovations
-- 😎 I can do and learn anything
+- 😎 I love to meet new people
 
