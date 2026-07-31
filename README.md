@@ -1,14 +1,23 @@
-# Hi 👋, I'm Subh
+# hi, i'm subh
 
-Infra and ML engineer. Spent the last few years doing Kubernetes, GPU inference,
-and LLM serving — mostly trying to make things run faster and cheaper.
+i build the systems behind real-time AI products - inference stacks, backend services,
+and the infrastructure that keeps them fast and reliable under load.
 
-Co-founded [June Labs](https://www.linkedin.com/feed/update/urn:li:activity:7389692620991610880), built a voice AI stack that hit sub-400ms E2E latency.
-Before that, infra at DynamoAI and DevOps at Bizongo.
+at [june labs](https://www.linkedin.com/feed/update/urn:li:activity:7389692620991610880),
+i built a voice AI platform end to end and took its STT + LLM + TTS pipeline from
+1.5s to 366ms e2e latency on a single H100 by replacing network hops with shared-memory IPC.
 
-Currently working on [June](https://june-legal.vercel.app/), an AI contract review tool
-for legal teams.
+before that, i worked on multi-cloud Kubernetes and GPU deployment infrastructure at
+DynamoAI, including deployments for Lenovo and PayPal. earlier, i worked on Kubernetes,
+Terraform, and GitOps systems at Bizongo.
 
-**Stack:** Python · Go · TypeScript · Kubernetes · vLLM · TensorRT-LLM
+currently building [June](https://june-legal.vercel.app/), an open-source AI workspace
+for legal teams, and [Lisn](https://github.com/itssubhodiproy/Lisn), local voice dictation
+for Linux.
 
-[LinkedIn](https://linkedin.com/in/itssubhodiproy) · [Email](mailto:subhodip@junelabs.org)
+i tend to work on problems where latency, reliability, deployment, and product constraints
+all meet.
+
+**stack:** Python · Go · TypeScript · Kubernetes · PostgreSQL · Redis · vLLM · TensorRT-LLM
+
+[linkedin](https://linkedin.com/in/itssubhodiproy) · [email](mailto:subhodip@junelabs.org)
